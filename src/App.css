@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+/*  */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust the height as needed */
+}
+
+.center-container {
+  /* Additional styling for the container if necessary */
+}
